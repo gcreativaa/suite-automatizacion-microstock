@@ -20,3 +20,5 @@ Una herramienta automatizada en Python diseñada para creadores visuales e ilust
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone [https://github.com/gcreativaa/suite-automatizacion-microstock.git](https://github.com/TU_USUARIO/suite-automatizacion-microstock.git)
+## 
+paypal: herrerabarragan.guadalupe@gmail.com
